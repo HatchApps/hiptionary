@@ -1,0 +1,26 @@
+{
+    "openings": [
+        "(This is,Say hello to,Meet) {name}."
+    ],
+    "body": [
+        "(They are from,From,Living in,Lives in) {place}.",
+        "{venue|sentence} (enthusiast,lover).",
+        "Was into {adjective} {thing} before it was cool.",
+        "Sells {adjective} {thing|plural} on Etsy.",
+        "Regular {thing} liveblogger.",
+        "Super into {adjective} {thing}.",
+        "Collector of {venue} {thing|plural} from {place}.",
+        "Check out their {adjective} {venue} {thing}.",
+        "Runs {venue|article} for {adjective} {thing|plural}.",
+        "Reckons {adjective} {thing|plural} are so hot right now.",
+        "{thing|sentence} blogger.",
+        "{adjective|sentence} {thing} photographer.",
+        "Built {adjective|article} {thing} app.",
+        "(Worked as,Employed as,Aspires to be) {occupation|article}.",
+        "{adjective|sentence} {occupation} for {venue|article}."
+    ],
+    "closings": [
+        "You probably haven't heard of them.",
+        "{name} is available as an app."
+    ]
+}

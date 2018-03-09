@@ -1,0 +1,34 @@
+{
+    "openings": [
+        "(My Dearest,Dearest,Dear,Hey,Hola,Yo) {recipient},",
+        "{recipient} my (dude,man,main man),"
+    ],
+    "body": [
+        "I found a (lovely,great) {adjective} {venue} for all the best {thing}.",
+        "You would not believe the {adjective} {thing|plural} in this {venue}.",
+        "I've just been down to the {venue} in {place} and found the most {adjective} {thing}.",
+        "Here in the {adjective} {venue} they have the most {adjective} {thing|plural}.",
+        "I was in {place} for the {adjective} {thing} before it was cool.",
+        "I found this {adjective} {venue} in {place}, the {adjective} {thing} here is so {adjective}!",
+        "At this {adjective} {venue} they have the most {adjective} {thing}, you probably haven't heard of them.",
+        "Just chilling down in {place}.",
+        "You just have to try the {adjective} {thing} here in {place}, it is so {adjective}.",
+        "I've been rocking the {adjective} {thing} down in {place}.",
+        "I've been hanging out in the {adjective} {venue} for the {adjective} {thing}, over in {place}.",
+        "You have to come to {place} for the {adjective} {thing}, {adjective} {thing} is so mainstream.",
+        "They've converted {adjective|article} {venue} and do the best {thing}!"
+    ],
+    "closings": [
+        "Catch you on the flip side!",
+        "Gotta go, my fixie ain't gonna fix itself.",
+        "Laters!",
+        "Adios amigo!",
+        "Gotta dash, my {adjective} {thing} is calling.",
+        "Smell you later.",
+        "I'll bring back {adjective} {thing} for you.",
+        "Burn this after reading.",
+        "Whatever.",
+        "Whatevs.",
+        "Totes amazeballs!"
+    ]
+}
