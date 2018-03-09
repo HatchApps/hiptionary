@@ -158,7 +158,11 @@
         "devil sticks",
         "baobab",
         "florals",
-        "sea shanty"
+        "sea shanty",
+        "blockchain",
+        "crypto",
+        "mezcal",
+        "vermouth"
     ],
     "suffixes": [
         "pop-up",
@@ -222,7 +226,9 @@
         "lighthouse",
         "library",
         "Urban Outfitters",
-        "dive bar"
+        "dive bar",
+        "gathering",
+        "record store"
     ],
     "places": [
         "Reykjavik",
