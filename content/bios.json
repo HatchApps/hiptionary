@@ -1,6 +1,6 @@
 {
     "openings": [
-        "(This is,Say hello to,Meet) {name}."
+        "(This is,Say hello to,Meet) {name}.
     ],
     "body": [
         "(They are from,From,Living in,Lives in) {place}.",
