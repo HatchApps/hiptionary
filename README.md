@@ -1,5 +1,7 @@
 ## The Hiptionary
 
+![Travis Build Status](https://travis-ci.org/HatchApps/hiptionary.svg?branch=master)
+
 The meta-data behind the [hpstr.me](https://hpstr.me) api.
 
 ### The Data
