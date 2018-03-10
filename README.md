@@ -29,4 +29,4 @@ We have come up with a very simple DSL to represent our data.
 
 ### Contributing
 
-Please feel free to create a pull request to add new terms, phrases and names. If your pull request is accepted then your contributions will start appearing on the live site for everyone to enjoy.
+Please feel free to create a pull request to add new terms, phrases and names. If your pull request is accepted then your contributions will start appearing on the live site for everyone to enjoy...or not, because we don't want it getting popular otherwise it won't be cool anymore.
