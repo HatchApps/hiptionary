@@ -1,0 +1,11 @@
+{
+    "statement": [
+      "You know, I was into {adjective} {thing} before it was cool.",
+      "Someone should sell {adjective} {thing|plural} on Etsy.",
+      "Thinking about becoming a {thing} liveblogger.",
+      "I'm super into {adjective} {thing} at the mo.",
+      "I reckon {adjective} {thing|plural} are so hot right now.",
+      "I aspire to be {occupation|article}.",
+      "I was {occupation|article} back in the day."
+    ]
+}
