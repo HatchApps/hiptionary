@@ -60,7 +60,6 @@
         "edge",
         "ennui",
         "vaporware",
-        "vaporwave",
         "vaping",
         "jianbing",
         "crucifix",
@@ -162,7 +161,10 @@
         "blockchain",
         "crypto",
         "mezcal",
-        "vermouth"
+        "vermouth",
+        "jorts",
+        "cactus",
+        "air plant"
     ],
     "suffixes": [
         "pop-up",
@@ -228,7 +230,11 @@
         "Urban Outfitters",
         "dive bar",
         "gathering",
-        "record store"
+        "record store",
+        "farmer's market",
+        "vegan cafe",
+        "installation",
+        "comic book store"
     ],
     "places": [
         "Reykjavik",
@@ -263,7 +269,8 @@
         "Hoxton",
         "London",
         "New York",
-        "Bristol"
+        "Bristol",
+        "So-Cal"
     ],
     "adjectives": [
         "inspired",
@@ -397,7 +404,9 @@
         "smoked",
         "subversive",
         "floral",
-        "alt"
+        "alt",
+        "plant-based",
+        "soft-pastel"
     ],
     "occupations": [
         "barista",
@@ -423,6 +432,12 @@
         "yoga instructor",
         "beard groomer",
         "stylist",
-        "microbrewer"
+        "microbrewer",
+        "nomad",
+        "instagrammer",
+        "lifestyle YouTuber",
+        "millennial",
+        "webcomic artist",
+        "Kween"
     ]
 }
